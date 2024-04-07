@@ -1,0 +1,1 @@
+Esse arquivo é temporário e só existe para eu conseguir dar o push na pasta para que nós não tenhamos conflitos na documentação.
